@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-01-05T13:21:09">
+<tabStyleSet>
+<ID>0</ID>
+<StyleName>当前样式</StyleName>
+<bolCurrent>1</bolCurrent>
+<colFore>0000FF</colFore>
+<colBack>008000</colBack>
+<colFrame>00008B</colFrame>
+<colHLFore>0000FF</colHLFore>
+<colHLBack>00FF00</colHLBack>
+<colHLFrame>00008B</colHLFrame>
+<NodeSharp>1</NodeSharp>
+<SmoothMode>4</SmoothMode>
+<Font>Times New Roman</Font>
+<FontUnit>10</FontUnit>
+<Description>最近设定生效的显示样式。</Description>
+</tabStyleSet>
+<tabStyleSet>
+<ID>1</ID>
+<StyleName>默认样式</StyleName>
+<bolCurrent>0</bolCurrent>
+<colFore>0000FF</colFore>
+<colBack>008000</colBack>
+<colFrame>00008B</colFrame>
+<colHLFore>0000FF</colHLFore>
+<colHLBack>00FF00</colHLBack>
+<colHLFrame>00008B</colHLFrame>
+<NodeSharp>1</NodeSharp>
+<SmoothMode>4</SmoothMode>
+<Font>Times New Roman</Font>
+<FontUnit>10</FontUnit>
+<Description>复杂网络仿真平台默认显示样式。</Description>
+</tabStyleSet>
+<tabStyleSet>
+<ID>2</ID>
+<StyleName>底比斯水</StyleName>
+<bolCurrent>0</bolCurrent>
+<colFore>000080</colFore>
+<colBack>00BFFF</colBack>
+<colFrame>4169E1</colFrame>
+<colHLFore>000080</colHLFore>
+<colHLBack>87CEEB</colHLBack>
+<colHLFrame>4169E1</colHLFrame>
+<NodeSharp>1</NodeSharp>
+<SmoothMode>4</SmoothMode>
+<Font>Times New Roman</Font>
+<FontUnit>10</FontUnit>
+<Description>“如果我的心像底比斯有一百座城门，我一定让快乐成打进来。”-苏格拉底</Description>
+</tabStyleSet>
+<tabStyleSet>
+<ID>3</ID>
+<StyleName>深邃星空</StyleName>
+<bolCurrent>0</bolCurrent>
+<colFore>FFFF00</colFore>
+<colBack>4B0082</colBack>
+<colFrame>00008B</colFrame>
+<colHLFore>FFFF00</colHLFore>
+<colHLBack>7B68EE</colHLBack>
+<colHLFrame>0000FF</colHLFrame>
+<NodeSharp>1</NodeSharp>
+<SmoothMode>4</SmoothMode>
+<Font>Times New Roman</Font>
+<FontUnit>10</FontUnit>
+<Description>“奇迹的不是那片星域如此辽阔，而是人类竟然成功测量了它。”—阿纳托尔·法郎士（法国小说家）</Description>
+</tabStyleSet>
+<tabStyleSet>
+<ID>4</ID>
+<StyleName>千本之樱</StyleName>
+<bolCurrent>0</bolCurrent>
+<colFore>800040</colFore>
+<colBack>F49AC1</colBack>
+<colFrame>8000FF</colFrame>
+<colHLFore>800080</colHLFore>
+<colHLBack>FFB3D9</colHLBack>
+<colHLFrame>C0C0C0</colHLFrame>
+<NodeSharp>1</NodeSharp>
+<SmoothMode>4</SmoothMode>
+<Font>Times New Roman</Font>
+<FontUnit>10</FontUnit>
+<Description>“春樱秋枫留不住，人去关卡亦成空。”-岛津义弘辞世之章（日本战国萨摩岛津家当主）</Description>
+</tabStyleSet>
+</dataroot>
